@@ -1,0 +1,14 @@
+{
+  "name": "xxxx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node start.js",
+    "test": "start.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": { "@gun-vue/relay": "^0.3.8" },
+  "type": "module"
+}
